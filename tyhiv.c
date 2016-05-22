@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2007, Swedish Institute of Computer Science.
+ * Copyright (c) 2016, CEA IoT.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -26,16 +26,10 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * This file is part of the Contiki operating system.
  *
  */
 
-/**
- * \file
- *         Example of how the collect primitive works.
- * \author
- *         Adam Dunkels <adam@sics.se>
- */
+
 
 #include "contiki.h"
 #include "lib/random.h"
